@@ -10,7 +10,7 @@ profiles = [
         "name": "Profile 1: CS & AI Enthusiast",
         "interests": "programming, artificial intelligence, python, computers",
         "completed": ["GE1401"],
-        "relevant_courses": ["CS1302", "CS2310", "GE2340"] # Ground truth for evaluation
+        "relevant_courses": ["CS1302", "CS2310", "GE2340", "CS2115"] # Ground truth for evaluation
     },
     {
         "name": "Profile 2: Business & Finance Student",
